@@ -1,0 +1,7 @@
+C:\Users\Ross\source\repos\CodeLouvillePlayground\CodeLouvillePlayground\bin\Debug\CodeLouvillePlayground.exe.config
+C:\Users\Ross\source\repos\CodeLouvillePlayground\CodeLouvillePlayground\bin\Debug\CodeLouvillePlayground.exe
+C:\Users\Ross\source\repos\CodeLouvillePlayground\CodeLouvillePlayground\bin\Debug\CodeLouvillePlayground.pdb
+C:\Users\Ross\source\repos\CodeLouvillePlayground\CodeLouvillePlayground\obj\Debug\CodeLouvillePlayground.csprojResolveAssemblyReference.cache
+C:\Users\Ross\source\repos\CodeLouvillePlayground\CodeLouvillePlayground\obj\Debug\CodeLouvillePlayground.csproj.CoreCompileInputs.cache
+C:\Users\Ross\source\repos\CodeLouvillePlayground\CodeLouvillePlayground\obj\Debug\CodeLouvillePlayground.exe
+C:\Users\Ross\source\repos\CodeLouvillePlayground\CodeLouvillePlayground\obj\Debug\CodeLouvillePlayground.pdb
