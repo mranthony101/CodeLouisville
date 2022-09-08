@@ -1,2 +1,3 @@
 This code has changed again.
-This is a new line.
+and we changed this line
+and now we added this
